@@ -1,0 +1,8 @@
+Here are the remaining maintenance windows for 2012:
+
+Oct 12-13             Corp IT Infrastructure / SaaS Ops Infrastructure / Release Management
+Oct 26-27             Corp IT Infrastructure / SaaS Ops Infrastructure / Release Management
+
+Nov 9-10              Corp IT Infrastructure / SaaS Ops Infrastructure / Release Management
+Nov 23-24            Corp IT Infrastructure / SaaS Ops Infrastructure / Release Management
+Dec 14-15            Corp IT Infrastructure / SaaS Ops Infrastructure / Release Management
